@@ -1,0 +1,1 @@
+// câu 6 tương tự với câu 2 , tuple có độ dài cố định , có thể khai báo nhiều kiểu dữ liệu trong khi array chỉ duy nhất khai báo 1 kiểu dữ liệu nhưng có độ dài tùy ý
